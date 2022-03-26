@@ -10,7 +10,7 @@
   "SYMBOL": "FCGM",
   "MAX_SUPPLY": 100,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 3,
+  "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/faceless-gentleman-v2",
